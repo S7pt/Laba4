@@ -1,0 +1,13 @@
+D:\Rider projects\Laba4Task3\Laba4Task3\bin\Debug\netcoreapp3.1\Laba4Task3.exe
+D:\Rider projects\Laba4Task3\Laba4Task3\bin\Debug\netcoreapp3.1\Laba4Task3.deps.json
+D:\Rider projects\Laba4Task3\Laba4Task3\bin\Debug\netcoreapp3.1\Laba4Task3.runtimeconfig.json
+D:\Rider projects\Laba4Task3\Laba4Task3\bin\Debug\netcoreapp3.1\Laba4Task3.runtimeconfig.dev.json
+D:\Rider projects\Laba4Task3\Laba4Task3\bin\Debug\netcoreapp3.1\Laba4Task3.dll
+D:\Rider projects\Laba4Task3\Laba4Task3\bin\Debug\netcoreapp3.1\Laba4Task3.pdb
+D:\Rider projects\Laba4Task3\Laba4Task3\obj\Debug\netcoreapp3.1\Laba4Task3.csprojAssemblyReference.cache
+D:\Rider projects\Laba4Task3\Laba4Task3\obj\Debug\netcoreapp3.1\Laba4Task3.csproj.CoreCompileInputs.cache
+D:\Rider projects\Laba4Task3\Laba4Task3\obj\Debug\netcoreapp3.1\Laba4Task3.AssemblyInfoInputs.cache
+D:\Rider projects\Laba4Task3\Laba4Task3\obj\Debug\netcoreapp3.1\Laba4Task3.AssemblyInfo.cs
+D:\Rider projects\Laba4Task3\Laba4Task3\obj\Debug\netcoreapp3.1\Laba4Task3.dll
+D:\Rider projects\Laba4Task3\Laba4Task3\obj\Debug\netcoreapp3.1\Laba4Task3.pdb
+D:\Rider projects\Laba4Task3\Laba4Task3\obj\Debug\netcoreapp3.1\Laba4Task3.genruntimeconfig.cache
